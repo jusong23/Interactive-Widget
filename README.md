@@ -7,7 +7,7 @@
 
 ### Start
 1. Run the main app
-2. Runthe widget after stoppping the main app
+2. Run the widget after stoppping the main app
 3. Wating until it has fully loaded
 
 
